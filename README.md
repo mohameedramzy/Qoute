@@ -19,7 +19,7 @@ Check out the project live: [Quote of the Day](https://daniels-jzbh.vercel.app/)
 
 1. Clone the repository:  
    ```sh  
-   git clone https://github.com/mohameedramzy/Qoute.git  
+   git clone https://github.com/mohameedramzy/Quote.git  
    ```
 2. Navigate to the project directory:  
    ```sh  
