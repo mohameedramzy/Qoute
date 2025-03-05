@@ -21,11 +21,7 @@ Check out the project live: [Quote of the Day](https://daniels-jzbh.vercel.app/)
    ```sh  
    git clone https://github.com/mohameedramzy/Quote.git  
    ```
-2. Navigate to the project directory:  
-   ```sh  
-   cd Daniels  
-   ```
-3. Open `index.html` in your browser.  
+2. Open `index.html` in your browser.  
 
 ### 2️⃣ Run with Live Server (Recommended)  
 
